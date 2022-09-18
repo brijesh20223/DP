@@ -21,5 +21,5 @@ longestCommonSubstr (string S1, string S2, int n, int m)
 }
 
 ```
-#### ***Time O(n*m^2)**
+#### ***Time O(n\*m^2)***
 #### ***Spaace O(1)***
